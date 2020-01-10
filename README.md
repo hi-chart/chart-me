@@ -1,6 +1,6 @@
 # Chart-me
 Chart-me brings full featured reporting functionality according to SUCCESS/IBCS into your application. [www.hi-chart.com](https://www.hi-chart.com/)
-You can use the online WEB Platform "[Chart-me Studio](https://chart-me-cloud.com/chart-me/V3.0/index.html)" to logon as a user and create IBCS conform documents and dashboards.
+You can use the online WEB Platform "[Chart-me Studio](https://chart-me-cloud.com/)" to logon as a user and create IBCS conform documents and dashboards.
 
 ## Register
 If you do not have any chart-me user, please request on our website your [personal demo license](https://hi-chart.com/en/chart-me-products/chart-me-test-licence-request-form/)
